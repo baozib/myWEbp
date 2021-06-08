@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="webFinalWork:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>webFinalWork</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="webFinalWork-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="webFinalWork:war exploded" />
+    </root>
+  </artifact>
+</component>

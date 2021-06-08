@@ -1,0 +1,84 @@
+create table `user`(           用户表
+	`uuid` varchar(32) primary key ,
+	`username` varchar(16) not null unique ,
+	`password` varchar(16) not null ,
+	`mailbox` varchar(32) not null unique ,
+	`avatar` varchar(32),
+	`career` int ,
+	foreign key(`career`) references user_career(id)
+)engine=innodb default charset=utf8;
+
+create table `user_career`(    身份表
+	`id` int auto_increment primary key comment '身份编号',
+	`career` varchar(32) unique not null comment '身份信息'
+)engine=innodb default charset=utf8;
+
+create table 	`manager_career`(    管理身份
+	`id` int auto_increment primary key ,
+	`user_id` varchar(32) not null unique,
+	`career_id` int not null,
+	`prove` varchar(32) not null,
+	foreign key(`career_id`) references user_career(id)
+)engine=innodb default charset=utf8;
+
+create table `manager_aid`(   管理求助表
+	`id` int auto_increment primary key,
+	`user_id` varchar(32) not null unique,
+	`aid_pic` varchar(32) not null
+)engine=innodb default charset=utf8;
+
+create table `manager_comm`(   管理评论表
+	`id` int auto_increment primary key,
+	`evaluator` varchar(32) not null unique,
+	`evaluated` varchar(32) not null unique,
+	`content` varchar(255) not null
+)engine=innodb default charset=utf8;
+
+create table 	`type`(   种类表
+	`id` int auto_increment primary key,
+	`type_name` varchar(6) not null unique
+)engine=innodb default charset=utf8;
+
+create table `user_comment`(  评论表
+	`id` int auto_increment primary key,
+	`donor` varchar(32) not null,
+	`poor` varchar(32) not null,
+	`evi_pic` varchar(32) not null unique,
+	`content` varchar(32) not null,
+	`star_level` int ,
+	`time` date
+)engine=innodb default charset=utf8;
+
+create table `poor`(   贫困表
+	`id` varchar(32),
+	`poor_name` varchar(6),
+	`poor_sex` varchar(1) ,
+	`poor_tele` varchar(16),
+	`poor_birth` date,
+	`poor_fundid` int auto_increment primary key
+)engine=innodb default charset=utf8;
+
+create table `donor`(  捐赠表
+	`id` varchar(32),
+	`donor_name` varchar(6),
+	`donor_sex` varchar(1) ,
+	`donor_tele` varchar(16),
+	`donor_birth` date,
+	`donor_depotid` int auto_increment primary key
+)engine=innodb default charset=utf8;
+
+create table `poor_apply`(   贫困申请表
+	`id` int auto_increment primary key,
+	`poor_fundid` int not null,
+	`evi_pic` varchar(32) not null,
+	`content` varchar(255)
+)engine=innodb default charset=utf8;
+
+create table `donor_resource`(   仓库表
+	`id` int auto_increment  primary key,
+	`donor_depotid` int not null,
+	`typeid` int not null,
+	`re_pic` varchar(32) not null,
+	`time` date,
+	foreign key(`typeid`) references type(id)
+)engine=innodb default charset=utf8;

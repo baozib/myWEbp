@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baozi.mapper.DonorMapper">
+
+    <resultMap id="all" type="donor">
+        <id property="id" column="id"></id>
+        <id property="donorDepotid" column="donor_depotid"></id>
+        <result property="donorName" column="donor_name"></result>
+        <result property="donorSex" column="donor_sex"></result>
+        <result property="donorTele" column="donor_tele"></result>
+        <result property="donorBirth" column="donor_birth"></result>
+    </resultMap>
+
+    <sql id="selectAll">select * from ${tableName}</sql>
+    <sql id="selectNotNull">${alias}.donor_uuid,${alias}.donor_username,${alias}.donor_password,${alias}.donor_mailbox</sql>
+    <sql id="selectIDAndPassword">donor_username,donor_password</sql>
+
+    <insert id="insertDepotid" parameterType="user">
+        insert into donor(id) values(#{uuid})
+    </insert>
+
+    <select id="selectDonor" parameterType="donor" resultMap="all">
+        select * from donor where id=#{id}
+    </select>
+
+
+    <select id="selectType" resultType="type">
+        <include refid="selectAll">
+            <property name="tableName" value="type"/>
+        </include>
+    </select>
+
+</mapper>

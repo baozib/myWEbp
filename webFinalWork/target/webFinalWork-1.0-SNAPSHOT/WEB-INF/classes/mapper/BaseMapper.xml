@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baozi.mapper.BaseMapper">
+
+    <resultMap id="all" type="user">
+        <id property="uuid" column="uuid"></id>
+        <result property="username" column="username"></result>
+        <result property="password" column="password"></result>
+        <result property="mailbox" column="mailbox"></result>
+        <result property="avatar" column="avatar"></result>
+        <result property="career" column="career"></result>
+    </resultMap>
+
+    <sql id="Password"> and password=#{password}</sql>
+    <sql id="Username"> and username=#{username}</sql>
+    <sql id="Generator">select * from user</sql>
+
+    <select id="selectUser" resultType="user" parameterType="user">
+        <include refid="Generator"></include>
+        <where>
+            <include refid="Username"></include><include refid="Password"></include>
+        </where>
+    </select>
+
+    <select id="selectUsername" resultType="user" parameterType="user">
+        <include refid="Generator"></include>
+        <where>
+            <include refid="Username"></include>
+        </where>
+    </select>
+
+    <select id="selectMailbox" resultType="user" parameterType="user">
+        <include refid="Generator"></include>
+        where mailbox=#{mailbox}
+    </select>
+    
+    <insert id="insertUser" parameterType="user">
+        insert into user(uuid,id,username,password,mailbox) values(#{uuid},#{id},#{username},#{password},#{mailbox})
+    </insert>
+
+    <update id="updateUser" parameterType="user">
+        update user set avatar=#{avatar} where username=#{username}
+    </update>
+
+
+
+
+</mapper>

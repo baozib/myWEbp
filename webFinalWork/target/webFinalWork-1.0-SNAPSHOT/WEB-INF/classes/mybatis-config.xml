@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--configuration file-->
+    <properties resource="db.properties"/>
+    <settings>
+        <!--Log4j diary-->
+        <setting name="logImpl" value="LOG4J"/>
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+    </settings>
+
+    <!--another name-->
+    <typeAliases>
+        <typeAlias type="com.baozi.pojo.gereral.User" alias="user"/>
+        <typeAlias type="com.baozi.pojo.donor.Donor" alias="donor"/>
+        <typeAlias type="com.baozi.pojo.poor.Poor" alias="poor"/>
+        <typeAlias type="com.baozi.pojo.manager.ManagerAid" alias="managerAid"/>
+        <typeAlias type="com.baozi.pojo.manager.ManagerCareer" alias="managerCareer"/>
+        <typeAlias type="com.baozi.pojo.manager.ManagerComm" alias="managerComm"/>
+        <typeAlias type="com.baozi.pojo.poor.PoorApply" alias="poorApply"/>
+        <typeAlias type="com.baozi.pojo.gereral.Type" alias="type"/>
+        <typeAlias type="com.baozi.pojo.gereral.UserComment" alias="userComment"/>
+    </typeAliases>
+    
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="com.baozi.model.druid.MyDruid"> <!--database connection pond-->
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+                <property name="maxActive" value="20"/>       <!--maxSize connecion counts-->
+            </dataSource>
+        </environment>
+    </environments>
+
+
+    <!--mapper refer interface-->
+    <mappers>
+       <mapper resource="mapper/DonorMapper.xml"></mapper>
+       <mapper resource="mapper/PoorMapper.xml"></mapper>
+       <mapper resource="mapper/ManagerMapper.xml"></mapper>
+       <mapper resource="mapper/BaseMapper.xml"></mapper>
+    </mappers>
+</configuration>

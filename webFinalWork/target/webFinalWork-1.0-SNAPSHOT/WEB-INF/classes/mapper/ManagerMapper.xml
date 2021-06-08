@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baozi.mapper.ManagerMapper">
+
+    <resultMap id="career" type="managerCareer">
+        <id property="id" column="id"></id>
+        <result property="userId" column="user_id"></result>
+        <result property="careerId" column="career_id"></result>
+        <result property="prove" column="prove"></result>
+    </resultMap>
+    <resultMap id="aid" type="managerAid">
+        <id property="id" column="id"></id>
+        <result property="userId" column="user_id"></result>
+        <result property="aidPic" column="aid_pic"></result>
+    </resultMap>
+
+    <resultMap id="comm" type="managerComm">
+        <id property="id" column="id"></id>
+        <result property="evaluator" column="evaluator"></result>
+        <result property="evaluated" column="evaluated"></result>
+        <result property="content" column="content"></result>
+    </resultMap>
+
+    <sql id="selectTable">
+        select * from ${tableName}
+    </sql>
+
+    <sql id="deleteUser">
+        delete from ${tablename}
+    </sql>
+
+    <select id="selectAllCareer" resultMap="career">
+        <include refid="selectTable">
+            <property name="tableName" value="manager_career"/>
+        </include>
+    </select>
+
+    <select id="selectAllAid" resultMap="aid">
+        <include refid="selectTable">
+            <property name="tableName" value="manager_aid"/>
+        </include>
+    </select>
+
+    <select id="selectAllComm" resultMap="comm">
+        <include refid="selectTable">
+            <property name="tableName" value="manager_comm"/>
+        </include>
+    </select>
+
+    <delete id="deleteUserAid" parameterType="managerAid">
+        <include refid="deleteUser">
+            <property name="tablename" value="manager_aid"/>
+        </include>
+         where id=#{id}
+    </delete>
+
+    <delete id="deleteUserCareer" parameterType="managerCareer">
+        <include refid="deleteUser">
+            <property name="tablename" value="manager_career"/>
+        </include>
+         where user_id=#{userId}
+    </delete>
+
+    <select id="selectCommContent" parameterType="managerComm" resultType="String">
+        select content from manager_comm where id=#{id}
+    </select>
+
+    <update id="updateUserCareer" parameterType="user">
+        update user set career=#{career} where uuid=#{uuid}
+    </update>
+
+    <update id="updatePoorApply" parameterType="managerAid">
+        update poor_apply set isUse=1 where id=#{id}
+    </update>
+
+
+
+</mapper>

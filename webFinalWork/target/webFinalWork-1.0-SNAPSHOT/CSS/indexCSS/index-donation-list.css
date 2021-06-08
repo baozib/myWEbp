@@ -1,0 +1,40 @@
+/* 捐赠列表CSS */
+.index-fuction-implement-donation-list{
+	background-color: white;
+}
+
+.list-show{
+	background-color: #8080ff;
+	border-radius: 20px;
+	overflow-y: scroll;
+}
+
+.list-show .donation-item>*{
+	flex-grow: 1;
+	background-color: rgba(255, 234, 147, 0.8);
+}
+
+.list-show .donation-item>*{
+	flex-grow: 1;
+	border: 1px solid sandybrown;
+}
+
+.list-show .donation-item p{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 65px;
+	margin: 0;
+}
+
+.list-show .donation-item a{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 65px;
+}
+
+.index-fuction-implement-donation-list .serach-fence{
+	background-color: #fff6d2;
+	border-radius: 22px;
+}

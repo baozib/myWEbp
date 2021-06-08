@@ -1,0 +1,1674 @@
+[INFO][21-05-17][com.baozi.utils.A]info:进入了
+[INFO][21-05-17][com.baozi.utils.A]info:进入了
+[DEBUG][21-05-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-17][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[INFO][21-05-18][com.baozi.web.input.RegisterPage]
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]<==      Total: 1
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]<==      Total: 1
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-19][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-19][com.baozi.mapper.DonorMapper.selectAll]<==      Total: 1
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@198b6731]
+[DEBUG][21-05-20][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-20][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-20][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-20][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-20][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c6908d7]
+[DEBUG][21-05-20][com.baozi.mapper.DonorMapper.selectAll]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-20][com.baozi.mapper.DonorMapper.selectAll]==> Parameters: 
+[DEBUG][21-05-20][com.baozi.mapper.DonorMapper.selectAll]<==      Total: 1
+[DEBUG][21-05-20][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c6908d7]
+[DEBUG][21-05-20][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c6908d7]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectAllUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6f03482]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3eb738bb]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=?,donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.DonorMapper.selectIdAndPassWord]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7eac9008]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==> Parameters: 13(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]<==      Total: 0
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==> Parameters: 13(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]<==      Total: 0
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]==> Parameters: 13(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectIdAndPassWord]<==      Total: 0
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]<==      Total: 2
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]<==      Total: 2
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]<==      Total: 2
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==>  Preparing: select * from user_donor 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]==> Parameters: 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectAllUser]<==      Total: 2
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@185a6e9]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3cd3e762]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor where donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1fa121e2]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor WHERE donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-22][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-22][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_donor WHERE donor_username=? and donor_password=? 
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-22][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-22][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@587e5365]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 0
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@c0c2f8d]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist WHERE tourist_username=? and tourist_password=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7d8704ef]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5c8d3f]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.insertUser]==>  Preparing: insert into user_tourist(tourist_uuid,tourist_username,tourist_password,tourist_mailbox) values(?,?,?,?) 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.insertUser]==> Parameters: 3baf38407adf425d9d597ebd7cb0f8a5(String), 123(String), 123(String), sadasda(String)
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5c8d3f]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.insertUser]==>  Preparing: insert into user_tourist(tourist_uuid,tourist_username,tourist_password,tourist_mailbox) values(?,?,?,?) 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.insertUser]==> Parameters: 93efa0a60bd64cbb8843f9ed5bed7273(String), 546(String), 123(String), sadasda(String)
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.insertUser]<==    Updates: 1
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5c8d3f]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5c8d3f]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2a5c8d3f]
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@561b6512]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 2
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-23][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@d35dea7]
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==>  Preparing: select * from user_tourist where tourist_username=? and tourist_mailbox=? 
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]==> Parameters: (String), null
+[DEBUG][21-05-23][com.baozi.mapper.TouristMapper.selectUser]<==      Total: 0
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@d35dea7]
+[DEBUG][21-05-23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@d35dea7]
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49438269]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user_tourist where username=? and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49438269]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user where username=? and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user where username=? and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=?password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=?and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@b3ca52e]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==>  Preparing: insert into user(uuid,username,password,mailbox) values(?,?,?,?) 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==> Parameters: ff92fb9b-d552-44b2-b755-0d1a28fdb91e(String), 123(String), 123(String), 12(String)
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@b3ca52e]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==>  Preparing: insert into user(uuid,username,password,mailbox) values(?,?,?,?) 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==> Parameters: 413aae196fd445869116b2402a09e193(String), 123(String), 123(String), 12(String)
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-24][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-24][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@b3ca52e]
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==>  Preparing: insert into user(uuid,username,password,mailbox) values(?,?,?,?) 
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]==> Parameters: 9eae6745ec1f42ea99f3978e5e50f9ef(String), 1234(String), 123(String), 12(String)
+[DEBUG][21-05-24][com.baozi.mapper.BaseMapper.insertUser]<==    Updates: 1
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@8297b3a]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 12(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@8297b3a]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 00(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 00(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 1(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 1(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 2(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 2(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: null
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 123(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 1
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 1234(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-25][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-25][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==>  Preparing: select * from user where mailbox=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]==> Parameters: 1243(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectMailbox]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==>  Preparing: select * from user WHERE username=? 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]==> Parameters: 1234(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.selectUsername]<==      Total: 0
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.insertUser]==>  Preparing: insert into user(uuid,username,password,mailbox) values(?,?,?,?) 
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.insertUser]==> Parameters: 4f601980992747be89a636c86b3dd79c(String), 1234(String), 132132(String), 1243(String)
+[DEBUG][21-05-25][com.baozi.mapper.BaseMapper.insertUser]<==    Updates: 1
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-25][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==>  Preparing: insert into donor(id) values(?) 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==> Parameters: 1(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]<==    Updates: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==>  Preparing: insert into donor(id) values(?) 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==> Parameters: null
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==>  Preparing: insert into donor(id) values(?) 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==> Parameters: null
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==>  Preparing: insert into donor(id) values(?) 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]==> Parameters: asd(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.insertDepotid]<==    Updates: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c9754d8]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@40005471]
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 1e460c4c84aa4ac08f06a703503248bd(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@40005471]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@40005471]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 0
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 0
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-29][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-29][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 123(String), 123(String)
+[DEBUG][21-05-29][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 1
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==>  Preparing: select * from donor where id=? 
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]==> Parameters: 122223213213(String)
+[DEBUG][21-05-29][com.baozi.mapper.DonorMapper.selectDonor]<==      Total: 1
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-29][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 1(String), 1(String)
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 0
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]==>  Preparing: select * from user WHERE username=? and password=? 
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]==> Parameters: 1(String), 1(String)
+[DEBUG][21-05-30][com.baozi.mapper.BaseMapper.selectUser]<==      Total: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@24269709]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 1
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==>  Preparing: select * from manager_career 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]<==      Total: 1
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==>  Preparing: select * from manager_comm 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 1
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==>  Preparing: select * from manager_career 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]<==      Total: 1
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==>  Preparing: select * from manager_comm 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==>  Preparing: select * from manager_career 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllCareer]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==>  Preparing: select * from manager_comm 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]==> Parameters: 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.selectAllComm]<==      Total: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2cd76f31]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]==>  Preparing: delete from manager_aid where id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]==> Parameters: 1(Integer)
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]<==    Updates: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]==>  Preparing: delete from manager_aid where id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]==> Parameters: 0(Integer)
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserAid]<==    Updates: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: null
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: null
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: null
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: null
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 0
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-30][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-30][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: 1(String)
+[DEBUG][21-05-30][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 1
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==>  Preparing: select content from manager_comm where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==> Parameters: 1(Integer)
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==>  Preparing: select content from manager_comm where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==> Parameters: 1(Integer)
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectAllAid]==>  Preparing: select * from manager_aid 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectAllAid]==> Parameters: 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectAllAid]<==      Total: 2
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==>  Preparing: select * from manager_comm where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==> Parameters: 1(Integer)
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]<==      Total: 1
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==>  Preparing: select content from manager_comm where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==> Parameters: 1(Integer)
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]<==      Total: 1
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1c1bbc4e]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==>  Preparing: select content from manager_comm where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]==> Parameters: 1(Integer)
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.selectCommContent]<==      Total: 1
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@1ce24091]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]==>  Preparing: select * from type 
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]==> Parameters: 
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]<==      Total: 6
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3d285d7e]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@367ffa75]
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]==>  Preparing: select * from type 
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]==> Parameters: 
+[DEBUG][21-05-31][com.baozi.mapper.DonorMapper.selectType]<==      Total: 6
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@367ffa75]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@367ffa75]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where id=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 3(Integer), null
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 0
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-05-31][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-05-31][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 3(Integer), 1e460c4c84aa4ac08f06a703503248bd(String)
+[DEBUG][21-05-31][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 1
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-05-31][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@bcec361]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 3(Integer), null
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 0
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 2(Integer), null
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 0
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 2(Integer), 122223213213(String)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==>  Preparing: update poor_apply set isUse=1 where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==> Parameters: 2(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]<==    Updates: 0
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==>  Preparing: update poor_apply set isUse=1 where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==> Parameters: 1(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4e08711f]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==>  Preparing: update poor_apply set isUse=1 where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==> Parameters: 3(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]<==    Updates: 0
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==>  Preparing: update poor_apply set isUse=1 where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==> Parameters: 3(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]<==    Updates: 0
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==>  Preparing: update poor_apply set isUse=1 where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]==> Parameters: 3(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updatePoorApply]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserAid]==>  Preparing: delete from manager_aid where id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserAid]==> Parameters: 3(Integer)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserAid]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: null, 122223213213(String)
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][21-06-01][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[INFO][21-06-01][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==>  Preparing: update user set career=? where uuid=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]==> Parameters: 1(Integer), 122223213213(String)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.updateUserCareer]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserCareer]==>  Preparing: delete from manager_career where user_id=? 
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserCareer]==> Parameters: 122223213213(String)
+[DEBUG][21-06-01][com.baozi.mapper.ManagerMapper.deleteUserCareer]<==    Updates: 1
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@2df3b89c]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Committing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]
+[DEBUG][21-06-01][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@302552ec]

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baozi.mapper.TouristMapper">
+
+    <resultMap id="all" type="tourist">
+        <id property="touristUuid" column="tourist_uuid"></id>
+        <result property="touristUsername" column="tourist_username"></result>
+        <result property="touristPassword" column="tourist_password"></result>
+        <result property="touristMailbox" column="tourist_mailbox"></result>
+    </resultMap>
+
+    <insert id="insertUser" parameterType="tourist">
+        insert into user_tourist(tourist_uuid,tourist_username,tourist_password,tourist_mailbox)
+        values(#{touristUuid},#{touristUsername},#{touristPassword},#{touristMailbox})
+    </insert>
+
+    <select id="selectUser" resultMap="all" parameterType="tourist">
+        select *
+        from user_tourist
+        where tourist_username=#{touristUsername} and tourist_password=#{touristPassword}
+    <!--    <where>
+            <if test="touristUuid != null and touristUuid != ''">
+                tourist_uuid=#{touristUuid}
+            </if>
+            <if test="touristUsername != null and touristUsername != ''">
+                and tourist_username=#{touristUsername}
+            </if>
+            <if test="touristPassword != null and touristPassword != ''">
+                and tourist_password=#{touristPassword}
+            </if>
+            <if test="touristMailbox != null and touristMailbox != ''">
+                and tourist_mailbox=#{touristMailbox}
+            </if>
+        </where>-->
+    </select>
+
+</mapper>

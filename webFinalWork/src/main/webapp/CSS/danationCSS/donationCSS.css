@@ -1,0 +1,11 @@
+/* 捐赠页面CSS */
+.donation-object{
+	width: 100%;
+	height: 100vh;
+}
+
+
+.donation-object .donation-goods{
+	background-color: #000000;
+	margin-left: 20px;
+}

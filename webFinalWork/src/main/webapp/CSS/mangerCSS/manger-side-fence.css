@@ -1,0 +1,33 @@
+/* 管理员侧边栏CSS */
+.manger-side-fence {}
+
+.header-image {
+	flex-grow: 1;
+}
+
+
+.function-item-show {
+	flex-grow: 9;
+}
+
+.function-item-show li {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-grow: 1;
+	width: 100%;
+	transition: all .5s linear;
+}
+
+.function-item-show li img {
+	width: 50px;
+	transition: all .5s;
+}
+
+.function-item-show li:hover {
+	border-left: 3px solid white;
+}
+
+.function-item-show li:hover img {
+	transform: scale(1.5);
+}

@@ -1,0 +1,156 @@
+/* indexPage主CSS */
+body{
+	width: 100%;
+	height: 100vh;
+	text-align: center;
+}
+
+.index-page {
+  width: 100%;
+  height: 100vh;
+  background-color: #8080ff;
+  border-radius: 20px;
+}
+
+.index-function-implement-item {
+  float: left;
+  width: 90%;
+  height: 100%;
+  border-radius: 25px;
+}
+
+
+/* indexPage 侧边栏CSS */
+.index-side-fence{
+	float: left;
+		width: 10%;
+		height: 100%;
+		border-radius: 25px;
+		background-color:#8080FF;
+	}
+	
+	/* 头像占比1份 */
+	.index-side-fence .header-image{
+		position: relative;
+		flex-grow: 1;
+	}
+	
+	.index-side-fence .header-image img{
+		width: 50px;
+		border-radius: 50%;
+	}
+	
+	.index-side-fence  .service{
+		flex-grow: 9;
+	}
+	
+		.index-side-fence  .service li {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-grow: 1;
+		}
+		
+		
+	.index-side-fence  .service li img{
+		width: 50px;
+		transition: all .5s; 
+	}
+	
+		.index-side-fence  .service li img:hover{
+			transform: scale(1.5);
+		}
+		
+		/* indexPage功能实现CSS */
+		
+		/* 功能实现donationCSS */
+		.index-function-implement-donation {
+				background-color: #ffffff;
+				border-radius: 25px;
+			}
+		
+			.index-function-implement-donation .item-show  {
+				height: 95%;
+				padding: 5px;
+				overflow: scroll;
+				flex-wrap: wrap;
+				overflow-y: scroll;
+				margin: 0;
+				transform-style: preserve-3d;
+				/*perspective: 500;*/
+				perspective-origin: 50% 50%;
+			}
+			
+			.item-show .item{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				margin-bottom: 20px;	
+			}
+			
+			.item-show .card:hover{
+				animation:cardTransform 1s ;
+				box-shadow: 0 0 5px 5px #d5d5d5;
+				cursor: pointer;
+			}
+			
+			.index-function-implement-donation .load-more{
+				border: 1px solid #b0aea6;
+				border-radius: 30px;
+				margin: 0 auto;
+				cursor: pointer;
+			}
+			
+			@keyframes cardTransform{
+				20%{
+					transform: rotateX(20deg) rotateY(20deg) rotateZ(20deg);
+				}
+				
+				
+			}
+			
+			/* 功能实现messageCSS */
+		.index-function-implement-person-message{
+		  background-color: white;
+		
+		}
+		  .left-image{
+		    background: url(../../images/indexImages/personMessage.jpg) no-repeat;
+		    background-size: 100% 100%;
+		    border-radius: 25px 0px 0px 25px;
+		  }
+		
+		
+		  .person-message li{
+		    flex-grow: 1;
+		  }
+		
+		  .person-message input[name="name"]{
+		    border: 1px solid #606060;
+		    background-color: white;
+		    border: 1px solid #606060;
+		  }
+		
+		.person-message input{
+		  height: 30px;
+		  border: none;
+		  text-indent: 1em;
+		  border-radius: 7px;
+		  background-color: #f1f4f5;
+		  vertical-align: middle;
+		  transition: all .5s;
+		}
+		
+		  .person-message input:focus{
+		      outline: none;
+		    transform: scale(1.2);
+		  }
+		
+		  .person-message p{
+		    font-family: "youyuan";
+		  }
+		
+		  .person-message span{
+		    font-weight: bolder;
+		    color: #298c91;
+		  }

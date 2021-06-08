@@ -1,0 +1,45 @@
+/* 功能实现garageCSS */
+
+.index-fuction-implement-garage{
+	background-color: wheat;
+}
+
+
+.index-fuction-implement-garage .show-stock{
+	background-color: #ffffff;
+	border: 1px solid sandybrown;
+	overflow-y: scroll;
+}
+
+.index-fuction-implement-garage .show-stock .stock-item{
+	margin-bottom: 10px;
+}
+
+.index-fuction-implement-garage .show-stock .stock-item>*{
+	flex-grow: 1;
+	border: 1px solid sandybrown;
+}
+
+.index-fuction-implement-garage .show-stock .stock-item p{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 65px;
+	margin: 0;
+}
+
+.index-fuction-implement-garage .show-stock .stock-item a{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 65px;
+}
+
+.index-fuction-implement-garage .show-stock .stock-item a:hover{
+	color: red;
+}
+
+
+.index-fuction-implement-garage .search-fence{
+
+}
