@@ -92,7 +92,7 @@
 					var username = $('.username').val();
 					var password = $('.password').val();
 					$.ajax({
-						url:  'http://localhost:8088/go/bz_initial?action=login',
+						url:  'http://localhost:8888/go/bz_initial?action=login',
 						type: 'post',
 						data: {"username":username,
 							   "password":password}	,

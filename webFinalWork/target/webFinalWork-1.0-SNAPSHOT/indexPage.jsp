@@ -491,6 +491,7 @@
 					</li>
 				</ul>
 			</div>
+
 		</template>
 
 		<!-- <script src="JS/indexJS/person.js" type="text/javascript" charset="utf-8"></script>
