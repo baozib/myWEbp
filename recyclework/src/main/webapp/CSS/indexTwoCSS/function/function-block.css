@@ -1,0 +1,14 @@
+.function-block{
+	border-radius: var(--border-radius);
+}
+
+.donation-template{
+	display: flex;
+}
+
+.function-block .function-template{
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+	border-radius: var(--border-radius);
+}

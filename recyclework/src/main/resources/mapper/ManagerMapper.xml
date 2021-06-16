@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.baozi.mapper.ManagerMapper">
+
+    <!--公用sql模板-->
+    <sql id="selectTable">
+        select * from ${tableName}
+    </sql>
+    <!--公用sql模板-->
+    <sql id="deleteUser">
+        delete from ${tableName}
+    </sql>
+
+    <!--查询所有的管理援助表-->
+    <select id="getAidMessage" resultType="ManagerAid">
+        <include refid="selectTable"><property name="tableName" value="manager_aid"/></include>
+    </select>
+
+    <!--查询所有的管理评论表-->
+    <select id="getCommMessage" resultType="ManagerComm">
+        <include refid="selectTable"><property name="tableName" value="manager_comm"/></include>
+    </select>
+
+    <!--管理所有的管理职位表-->
+    <select id="getCareerMessage" resultType="ManagerCareer">
+        <include refid="selectTable"><property name="tableName" value="manager_career"/></include>
+    </select>
+
+    <!--删除求助表根据编号-->
+    <delete id="deleteAid" parameterType="String">
+        <include refid="deleteUser">
+            <property name="tableName" value="manager_aid"/>
+        </include>
+        where id=#{id}
+    </delete>
+
+    <!--删除身份表根据编号-->
+    <delete id="deleteCareer" parameterType="String">
+        <include refid="deleteUser">
+            <property name="tableName" value="manager_career"/>
+        </include>
+        where id=#{id}
+    </delete>
+
+    <!--查找用户申请职位表指定编号-->
+    <select id="selectCareer" parameterType="String" resultType="ManagerCareer">
+        select * from manager_career where id=#{id}
+    </select>
+
+    <!--修改用户的职位 根据用户的id-->
+    <update id="updateUserCareer" parameterType="ManagerCareer">
+        update user set career=#{careerId} where id=#{userId}
+    </update>
+
+    <update id="useAidApply" parameterType="String">
+        update poor_apply set isUse = 1 where id=#{id}
+    </update>
+
+</mapper>

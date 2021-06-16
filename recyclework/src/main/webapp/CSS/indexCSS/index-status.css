@@ -1,0 +1,28 @@
+.index-fuction-implement-status{
+	background-image: linear-gradient( to top ,#79cdd1  0% ,#8592da  100%);
+}
+/* 身份选项 */
+.select-status{
+	/* background-color: #000000; */
+}
+
+
+ .row{
+	margin: 0;
+	padding: 0;
+}
+
+/* 图片证明 */
+.image-promise{
+	/* background-color: red; */
+	border: 2px solid #8080ff;
+}
+
+.image-promise>*{
+	flex-grow: 1;
+}
+
+/* 提交证明 */
+.submit-promise{
+	/* background-color: #007BFF; */
+}

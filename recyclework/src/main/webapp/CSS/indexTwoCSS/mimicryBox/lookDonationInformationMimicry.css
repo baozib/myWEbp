@@ -1,0 +1,19 @@
+#lookDonationInformation .show-stock{
+	background-color: #ffffff;
+	overflow-y: scroll;
+}
+
+#lookDonationInformation .show-stock .stock-item{
+	margin-bottom: 10px;
+}
+
+#lookDonationInformation .show-stock .stock-item>*{
+	flex-grow: 1;
+}
+
+#lookDonationInformation .show-stock .stock-item p{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	margin: 0;
+}

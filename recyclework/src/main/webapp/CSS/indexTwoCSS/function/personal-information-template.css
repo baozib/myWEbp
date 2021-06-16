@@ -1,0 +1,51 @@
+.personal-information-template{
+	background-color: #FFFFFF;
+}
+
+.personal-information-template .left-image{
+	background: url(../../../images/indexImages/personMessage.jpg) no-repeat ;
+	background-size: 100% 100%;
+	border-radius: var(--border-radius) 5px 5px var(--border-radius) ;
+	
+}
+
+.personal-information-template .right-information{
+	border-radius: 5px var(--border-radius)   var(--border-radius) 5px;
+}
+
+.personal-information-template .right-information .person-information li{
+	flex-grow: 1;
+}
+
+.personal-information-template .right-information .submit-personal-information li input{
+	height: 30px;
+	border: none;
+	border-radius: 7px;
+	background-color: #f1f4f5;
+	vertical-align: middle;
+	transition: all .5s;
+	color: #ff0000;
+}
+
+.personal-information-template .right-information .submit-personal-information li .user-name{
+	color: #000000;
+}
+
+.personal-information-template .right-information .submit-personal-information li .user-birthday{
+	color: #000000;
+}
+
+.personal-information-template .right-information .submit-personal-information li .mask{
+	color: #000000;
+}
+
+.personal-information-template .right-information .submit-personal-information li input:focus{
+	outline: none;
+	transform: scale(1.2);
+}
+
+.personal-information-template .right-information .person-information span{
+	font-size: 20px;
+	font-weight: bolder;
+	color: #298c91;
+}

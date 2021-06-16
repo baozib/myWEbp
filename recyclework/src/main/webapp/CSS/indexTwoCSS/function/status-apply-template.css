@@ -1,0 +1,12 @@
+.status-apply-template{
+	background-color: #fff7dd;
+}
+
+
+.status-apply-template .select-status{
+	margin: 0;
+}
+
+.status-apply-template .submit-prove .prove-image{ 
+	cursor: pointer;
+}

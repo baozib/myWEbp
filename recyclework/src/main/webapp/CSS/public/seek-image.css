@@ -1,0 +1,23 @@
+ .seek-image{
+	cursor: pointer;
+}
+
+.image-mask{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: 2040;
+	background-color: rgba(1,1,1,0.7);
+}
+
+/* 用js让它居中显示 */
+#show-image{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 600px;
+	height: 400px;
+	z-index: 2050;
+}

@@ -1,0 +1,20 @@
+#donationPop .show-stock{
+	background-color: #ffffff;
+	overflow-y: scroll;
+}
+
+#donationPop .show-stock .stock-item{
+	margin-bottom: 10px;
+}
+
+#donationPop .show-stock .stock-item>*{
+	flex-grow: 1;
+	max-width: 33%;
+}
+
+#donationPop .show-stock .stock-item p{
+	font-family: "youyuan";
+	font-size: 20px;
+	font-weight: bolder;
+	margin: 0;
+}

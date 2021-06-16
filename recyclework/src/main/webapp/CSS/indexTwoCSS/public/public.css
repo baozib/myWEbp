@@ -1,0 +1,53 @@
+ .control-page{
+	display:flex ;
+	align-items: center;
+	justify-content: center;
+}
+
+ .control-page .total-page{
+	display: inline-block;
+}
+
+ .control-page .total-page li{
+	float: left;
+	width: 20px;
+	height: 25px;
+	line-height: 25px;
+	
+	margin: 10px;
+	cursor: pointer;
+}
+
+ .control-page .total-page .selected-page{
+	 background-color: #d9d9d9;
+ }
+ 
+.control-page .total-page li[data-page = '1']{
+	  background-color: #d9d9d9;
+ }
+ 
+/* .control-page .total-page .selected-page{
+	 background-color: #d9d9d9;
+ }
+ 
+ .control-page .total-page .not-selected-page{
+ 	 background-color: transparent;
+ } */
+
+
+.key-word,.key-date{
+	border: 3px solid #5500ff;
+	border-radius: 5px;
+}
+
+.key-word:focus,.key-date:focus{
+	outline: none;
+}
+
+.text-over-bit{
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

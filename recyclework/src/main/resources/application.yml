@@ -1,0 +1,37 @@
+##主配置文件信息
+spring:
+  mvc:
+    view:
+      #访问文件的路径 只允许在jsp下访问
+      prefix: /WEB-INF/jsp/
+      #访问路径后缀 页面跳转不用加后缀
+      suffix: .jsp
+  datasource:
+    #配置账户
+    data-username: root
+    #配置密码
+    data-password: 333
+    #配置url 加上时区 加上SSl安全认证 加上unicode启动 加上字符集utf-8
+    url: jdbc:mysql://localhost:3306/recycleplatform?useSSL=true&useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+    #driver驱动配置 加上cj
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    #配置数据源
+    name: druidDataSource
+  application:
+    #项目名称
+    name: recyclework
+  profiles:
+    #项目环境
+    active: dev
+server:
+  #端口号
+  port: 8585
+mybatis-plus:
+  configuration:
+    #配置log4j2
+    log-impl: org.apache.ibatis.logging.log4j2.Log4j2Impl
+  mybatis:
+    #配置mapper位置
+    mapper-locations: classpath:mapper/*Mapper.xml
+  #扫描别名 可直接把pojo类后缀当别名
+  type-aliases-package: com.baozi.domain

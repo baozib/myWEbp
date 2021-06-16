@@ -1,0 +1,37 @@
+body{
+	width: 100%;
+	height: 100vh;
+	--back-color: #009fff;
+}
+
+#manger{
+	width: 100%;
+	height: 100%;
+	background-color: var(--back-color);
+	border-radius: 25px;
+	border: 1px solid #121432;
+}
+
+#manger .function{
+	width: 100%;
+	height: 100%;
+}
+
+#manger .manger-item{
+	float: left;
+	height: 100%;
+	border-radius: 25px;
+
+}
+
+/* 管理员边框宽度占比10%,高度占满 */
+#manger .manger-side-fence{
+	width: 10%;
+	background-color: var(--back-color);
+}
+
+/* 管理员功能实现块宽度占比90，高度占满 */
+#manger .manger-function-implement{
+	width: 90%;	
+	background-color: white;
+}

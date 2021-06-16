@@ -1,0 +1,41 @@
+.donation-list-template{
+	background-color: #ffffff;
+}
+
+.donation-list-template .comments-display {
+	background-color: #ffffc4;
+	border-radius: 15px;
+	overflow-y: auto;
+}
+
+.donation-list-template .comments-display .comment-item{
+	margin: 0;
+	border-radius: 15px;
+	border: 1px solid #c89d85;
+}
+
+.donation-list-template .comments-display .comment-item>div{
+	display: flex;
+	flex-grow: 1;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
+.donation-list-template .other-row-ul{
+	overflow-y: auto;
+}
+
+.donation-list-template .comments-display .comment-item .donation-item{
+	display: flex;
+	border-top: none;
+}
+
+.donation-list-template .comments-display .comment-item .donation-item>div{
+	display: flex;
+	flex-grow: 1;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+}
+
